@@ -1,0 +1,7 @@
+[
+  "tests/test_app.py::test_create_post",
+  "tests/test_app.py::test_create_post_invalid_data",
+  "tests/test_app.py::test_create_post_mock_posts",
+  "tests/test_app.py::test_get_posts",
+  "tests/test_app.py::test_posts_initialized_as_empty_list"
+]
