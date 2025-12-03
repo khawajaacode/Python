@@ -10,6 +10,7 @@ This repository contains multiple Python projects showcasing different programmi
 |---------|-------------|-----------|
 | **Intelligent Blog Application** | A Flask-based web application for creating and managing blog posts | Flask, HTML, JavaScript |
 | **Task Management System** | A queue-based CLI application for managing tasks with persistence | Python, Collections, Decorators |
+| **Symptom Diagnosis Chatbot** | An AI-powered notebook that provides preliminary medical diagnoses based on user-reported symptoms. |Python, spaCy, Jupyter Notebook |
 
 ---
 
@@ -306,16 +307,5 @@ Each project includes its own detailed documentation:
 
 This repository is part of the Python learning journey and demonstrates various Python development techniques.
 
----
 
-## ✨ Author
-
-**Khawaja Babar Naseer**
-
-Completed: Advanced Python Development Techniques (Microsoft & Coursera)
-
----
-
-## 📞 Support
-
-For questions or issues with any project, review the inline documentation, project-specific READMEs, or test files for usage examples.
+For questions or issues with any project, review the inline documentation, project-specific READMEs, or test files for usage examples
